@@ -28,7 +28,7 @@ Below is the actual terminal execution output demonstrating the performance and 
 
 ## Installation
 
-Clone the repo: `git clone https://github.com/MariamAshraf25/disk-scheduling-algorithms`
+git clone https://github.com/MariamAshraf25/disk-scheduling-algorithms.git
 
 ---
 
